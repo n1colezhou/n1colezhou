@@ -14,13 +14,18 @@ I build thoughtful, human-centered technology. Blending strong engineering found
 ## ₊˚ʚ🌱ɞ˚₊ what I’m up to
 
 **✦ Software Engineering Intern @ Pfizer**  
-Built a machine learning–powered analytics dashboard delivering real-time insights to **50+ engineering teams**, improving accuracy and reducing manual reporting.
+- Improved the *Blaze Forecaster* ML tool by implementing parsing algorithms and pattern recognition, increasing accuracy from **~20% to ~95%**.  
+- Architected a full-stack GitHub analytics dashboard serving **50+ engineering teams**, processing **900+ repositories** with secure GitHub App authentication, microservices, caching, and rate limiting.  
+- Reduced manual reporting by **75%** by automating pull request tracking and deploying with Docker & Kubernetes.
 
 **✦ Software Development Intern @ UW-IT**  
-Developing and improving internal systems that support students and staff — from database design to feature development.
+- Contribute to internal systems supporting students and staff across web, data, and analytics teams.  
+- Added database fields, implemented audit logging, and built search + bulk upload features for the Diploma Database.  
+- Partner with SIS service teams to triage and resolve support tickets efficiently.
 
 **✦ Frontend Lead @ iD2 (student startup)**  
-Led frontend development and collaborated closely with designers to ship intuitive features and grow active users.
+- Led frontend development in close collaboration with UX designers.  
+- Shipped 5 major features within three months, contributing to a **25% increase in active users**.  
 
 ---
 
@@ -40,13 +45,22 @@ Led frontend development and collaborated closely with designers to ship intuiti
 *Python • React Native • Flask • scikit-learn*  
 🏆 **1st Place — DubHacks (T-Mobile Most Un-Carrier Hack)**
 
+- Built an **86% accuracy** emotion classification model using the RAVDESS speech dataset and MFCC feature extraction.  
+- Developed a full-stack React Native + Flask application delivering real-time emotional tone feedback during cross-platform calls.  
+- Presented to T-Mobile CTO and board among **700+ participants**.
+
 ### [PickleDoro](https://github.com/LamPham123/ThoughtToText)
 **Focus-detecting Pomodoro web app using EEG data**  
 *Python • Flask • Machine Learning • JavaScript*
 
+- Developed an **82% accuracy** machine learning model processing Muse 2 EEG data to detect attention levels in real time.  
+- Integrated cognitive feedback into a dynamic Pomodoro timer to adapt productivity sessions based on user focus.
+
 ### [SYNC](https://devpost.com/software/sync-hiqtrk) 
 **AI-driven scheduling extension for structured task planning**  
 *Next.js • Firebase • NLP • APIs*
+- Built an NLP-powered extension using SambaNova Cloud to convert unstructured web content into structured schedules.  
+- Designed cross-platform scheduling APIs integrating Google Calendar and Notion for seamless task synchronization.
 
 ---
 
