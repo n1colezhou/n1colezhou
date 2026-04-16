@@ -38,6 +38,54 @@ I build thoughtful, human-centered technology. Blending strong engineering found
 
 ---
 
+## 🎓 Capstone Project — SoundSeen *(In Progress)*  
+**Accessible Music Experiences for Deaf & Hard-of-Hearing Users**
+
+### 🧠 Overview  
+SoundSeen is a human-centered platform that translates music into visual (and eventually tactile) experiences.  
+It aims to help Deaf and hard-of-hearing users engage with rhythm, intensity, and emotional tone—not just lyrics.
+
+### ⚡ Problem  
+Music is more than words—it’s emotion, energy, and shared experience.  
+However, most accessibility solutions focus only on lyrics, leaving out:
+- Rhythm and beat drops  
+- Energy and intensity shifts  
+- Emotional tone  
+
+This creates a disconnect in social and cultural music experiences.
+
+### 🛠️ Approach  
+- Conducted user research with Deaf and hard-of-hearing students  
+- Scoped a focused MVP around emotion + rhythm visualization  
+- Designed interactive prototypes in Figma  
+- Explored audio → data → visual mapping using ML concepts  
+
+### 👩‍💻 My Contributions  
+- Defined early technical direction for processing audio features  
+- Bridged design and engineering decisions with the team  
+- Contributed to prototyping and feature iteration  
+- Helped prioritize MVP features based on impact and feasibility  
+
+### 🧰 Tech  
+`Python` · `JavaScript` · `React` · `Figma` · `Machine Learning` · `Audio Processing`
+
+### 🌱 Key Takeaways  
+- Accessibility requires rethinking the full experience—not just adding features  
+- Translating abstract concepts like emotion into data is both technical and creative  
+- Strong collaboration between design and engineering is essential  
+
+### 🚀 Next Steps  
+- Build a working prototype with live or recorded audio input  
+- Improve emotion and intensity detection with ML models  
+- Conduct usability testing with target users  
+- Explore visual + haptic feedback for deeper immersion  
+
+### 🔗 Links
+- [GitHub Repository]([url](https://github.com/evanc108/SoundSeen))
+- Figma Prototype
+
+---
+
 ## ₊˚ʚ🧩ɞ˚₊ selected projects
 
 ### [DIALog](https://devpost.com/software/dialog-cl8fhu)  
